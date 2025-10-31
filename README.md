@@ -80,7 +80,7 @@ I am also fascinated by **protein chemistry and structural biology**, using **Py
 
 ### 📫 Contact
 - **Email:** [ayehgeek@gmail.com](mailto:ayehgeek@gmail.com)  
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- **LinkedIn:** Ayeh Bolouki (https://www.linkedin.com/in/Ayeh Bolouki)  
 
 ---
 
@@ -101,4 +101,5 @@ I am also fascinated by **protein chemistry and structural biology**, using **Py
 - **Statistical Analysis & PLS-DA** 📈  
 - **Network Analysis & WGCNA** 🌐  
 - **Data Visualization (Python, R)** 📉
+
 
