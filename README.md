@@ -39,45 +39,6 @@ I am also fascinated by **protein chemistry and structural biology**, using **Py
 
 ---
 
-### 📚 Selected Publications
-**2025**  
-1. Giroud J, Delvaux P, De Schutter C, ..., Bolouki A, ... *Targeting ATF6α attenuates UVB-induced senescence and improves skin homeostasis.* **Cell Death & Disease (2025)** — Co-author  
-2. Dourte M, Bolouki A, ..., Kienlen-Campard P. *(Co-first authors)* *An Early Olfactory Transcriptomic Signature of Tauopathy: Gbp2b Emerges as a Candidate Biomarker.* **bioRxiv (2025)** — Co-first author  
-
-**2023**  
-3. Bolouki A, Rahimi M, ..., Baghban F. *Integrated multi-omics analysis identifies epigenetic alteration related to neurodegeneration development in PTSD patients.* **Psychiatric Genetics (2023)** — First author, corresponding author  
-
-**2022**  
-4. Bolouki A. *Role of epigenetic modification in intergeneration transmission of war trauma.* **Indian J Clin Biochem (2022)** — First author, corresponding author  
-
-**2020–2019**  
-5. Bolouki A, Zal F. *Impact of war on fertility.* **Archives of Iranian Medicine (2020)** — First author  
-6. Bolouki A, Zal F, Mostafavi-pour Z, ... *Protective effects of quercetin on uterine receptivity in diabetic pregnant mice.* **Taiwan J Obstet Gynecol (2020)** — First author  
-7. Bolouki A, Zal F, Alaee S. *Ameliorative effects of quercetin on preimplantation embryo development in diabetic mice.* **J Obstet Gynaecol Res (2019)** — First author  
-8. Bolouki A, Zal F, Bordbar H. *Quercetin effects on folliculogenesis in diabetic mice.* **Gynecol Endocrinol (2019)** — First author  
-
-**2018–2017**  
-9. Bolouki A, Salavati-Niasari M. *Effect of TiO2 nanoparticles on trypsin activity and stability.* **J Nanostructures (2018)** — First author  
-10. Yarahmadi A, Zal F, Bolouki A. *Protective effects of quercetin on oxidative stress in HepG2 cells.* **Toxicol Mech Methods (2017)** — Co-author  
-
----
-
-### 📝 Manuscripts Under Review
-1. Moosavi SS, Bolouki A, ... *Weighted gene co-expression analysis links alcohol consumption to cellular hemostasis/senescence.* — Second author, advisor  
-2. Bolouki A, Moyedfar Z, ... *Stage-Specific Gene Regulatory Networks in NAFLD progression.* — First author  
-3. Bolouki A, Rahimi M, ... *Integrative exosomics analysis of immune regulatory roles of exosomal miRNAs.* — First author  
-4. Bolouki A, Kasraeian M, ... *miRNA interactome analysis reveals graft-host disease-like pattern in early-onset preeclampsia.* — First author  
-
----
-
-### 🎤 Selected Conference Presentations
-1. Bolouki A, Dourte M, ... *Investigation of epigenetic senescence signature in tauopathy mice.* International Conference: Senescence in Aging and Pathology, UHasselt, Belgium (2023) — Poster  
-2. Bolouki A, Zal F, Alaee S. *Reversal of diabetes effects on reproductive complications using quercetin.* Reproductive Biomedicine Congress, Isfahan, Iran (2020) — Oral  
-3. Bolouki A, Zal F. *Impact of war on fertility.* International Congress on Health for Peace, Shiraz, Iran (2018) — Top Poster Award  
-4–6. Additional presentations in protein biochemistry and multi-omics (2012–2022)  
-
----
-
 ### 📫 Contact
 - **Email:** [ayehgeek@gmail.com](mailto:ayehgeek@gmail.com)  
 - **LinkedIn:** Ayeh Bolouki (https://www.linkedin.com/in/Ayeh Bolouki)  
@@ -101,5 +62,6 @@ I am also fascinated by **protein chemistry and structural biology**, using **Py
 - **Statistical Analysis & PLS-DA** 📈  
 - **Network Analysis & WGCNA** 🌐  
 - **Data Visualization (Python, R)** 📉
+
 
 
