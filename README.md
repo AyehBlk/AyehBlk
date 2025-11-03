@@ -36,8 +36,8 @@ I am also fascinated by **protein chemistry and structural biology**, using **Py
   PLS-DA implementation optimized for small sample proteomics/metabolomics datasets.
 - **[PLSDA-MSMS-Analysis](https://github.com/AyehBlk/PLSDA-MSMS-Analysis)**  
   Practical analysis pipeline for MS/MS data with statistical classification.
-  - **[Complete Protein-Protein Interaction Analysis Workflow](https://github.com/AyehBlk/Complete-Protein-Protein-Interaction-Analysis-Workflow)**
-    A comprehensive, end-to-end workflow for predicting, visualizing, and validating protein-protein interactions. Includes AlphaFold3 integration, PyMOL visualization scripts, Arpeggio interaction detection, and quantitative validation against experimental structures.
+- **[Complete Protein-Protein Interaction Analysis Workflow](https://github.com/AyehBlk/Complete-Protein-Protein-Interaction-Analysis-Workflow)**
+  A comprehensive, end-to-end workflow for predicting, visualizing, and validating protein-protein interactions. Includes AlphaFold3 integration, PyMOL visualization scripts, Arpeggio interaction detection, and quantitative validation against experimental structures.
 
 ---
 
@@ -64,6 +64,7 @@ I am also fascinated by **protein chemistry and structural biology**, using **Py
 - **Statistical Analysis & PLS-DA** 📈  
 - **Network Analysis & WGCNA** 🌐  
 - **Data Visualization (Python, R)** 📉
+
 
 
 
