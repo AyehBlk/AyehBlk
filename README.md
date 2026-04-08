@@ -2,6 +2,8 @@
 
 <br>
 
+<img src="ReadmePicture.png" width="600" />
+
 ### 🦖 *They said the dinosaurs were gone. They were wrong.*
 
 <a href="https://git.io/typing-svg">
